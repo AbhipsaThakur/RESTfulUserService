@@ -1,0 +1,9 @@
+//GET users = HTML Render
+//GET /api/users = List all users JSON - DONE
+
+GET /api/users/1 = Get the users with ID 1
+GET /api/users/2 = Get the users with id 2
+
+Dynamic Path Prarameter
+GET /api/users/:id
+this :id = Variable | Dynamically
